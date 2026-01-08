@@ -5,6 +5,6 @@ metadata:
   description: A collection of all Group
 spec:
   targets:
-    - ./apis/sample-squad-a.yaml
-    - ./apis/sample-squad-b.yaml
-    - ./apis/sample-tribe.yaml
+    - ./groups/sample-squad-a.yaml
+    - ./groups/sample-squad-b.yaml
+    - ./groups/sample-tribe.yaml
