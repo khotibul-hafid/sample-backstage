@@ -5,5 +5,5 @@ metadata:
   description: Sample Kafka cluster for event streaming
 spec:
   type: kafka
-  owner: group:default/sample-department
+  owner: group:sample-tribe
   system: sample-system

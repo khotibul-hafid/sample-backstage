@@ -5,5 +5,5 @@ metadata:
   description: Sample Third Party
 spec:
   type: Third Party
-  owner: group:default/sample-department
+  owner: group:sample-tribe
   system: sample-system

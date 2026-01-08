@@ -4,4 +4,4 @@ metadata:
   name: sample-domain
   description: Sample domain
 spec:
-  owner: group:default/sample-department
+  owner: group:sample-tribe

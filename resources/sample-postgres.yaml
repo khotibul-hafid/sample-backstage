@@ -5,5 +5,5 @@ metadata:
   description: Sample PostgreSQL database
 spec:
   type: database
-  owner: group:default/sample-department
+  owner: group:sample-tribe
   system: sample-system

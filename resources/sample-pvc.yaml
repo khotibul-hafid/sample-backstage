@@ -5,5 +5,5 @@ metadata:
   description: Sample PVC 
 spec:
   type: storage
-  owner: group:default/sample-department
+  owner: group:sample-squad-a
   system: sample-system

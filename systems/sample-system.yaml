@@ -4,5 +4,5 @@ metadata:
   name: sample-system
   description: Sample system representing our platform
 spec:
-  owner: group:default/sample-department
+  owner: group:sample-domain
   domain: sample-domain
