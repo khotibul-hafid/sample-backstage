@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: all-group
+  description: A collection of all Group
+spec:
+  targets:
+    - ./apis/sample-squad-a.yaml
+    - ./apis/sample-squad-b.yaml
+    - ./apis/sample-tribe.yaml
