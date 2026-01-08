@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Resource
+metadata:
+  name: sample-mongo
+  description: Sample MongoDB database
+spec:
+  type: database
+  owner: group:default/sample-department
+  system: sample-system

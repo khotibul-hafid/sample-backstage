@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: sample-service-b
+  namespace: sample-namespace
+  description: Sample Service B
+  tags:
+    - java
+    - quarkus
+spec:
+  type: service
+  lifecycle: production
+  owner: group:sample-squad-a
+  system: sample-system
+  dependsOn:
+  - component:sample-service-a

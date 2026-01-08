@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: all-api
+  description: A collection of all API
+spec:
+  targets:
+    - ./apis/sample-rest-api-a.yaml

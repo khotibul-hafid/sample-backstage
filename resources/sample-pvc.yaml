@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Resource
+metadata:
+  name: sample-postgres
+  description: Sample PostgreSQL database
+spec:
+  type: database
+  owner: group:default/sample-department
+  system: sample-system

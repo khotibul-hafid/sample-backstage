@@ -1,7 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-  name: team-dev
+  name: sample-squad-b
+  description: Sample Squad B
 spec:
-  type: team
+  type: squad
   children: []

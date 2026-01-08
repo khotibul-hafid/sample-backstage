@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Resource
+metadata:
+  name: sample-kafka
+  description: Sample Kafka cluster for event streaming
+spec:
+  type: kafka
+  owner: group:default/sample-department
+  system: sample-system

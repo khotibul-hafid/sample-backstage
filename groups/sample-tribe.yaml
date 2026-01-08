@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: sample-tribe
+  description: Sample tribe responsible for you
+spec:
+  type: tribe
+  children: [ sample-squad-a, sample-squad-b ]
