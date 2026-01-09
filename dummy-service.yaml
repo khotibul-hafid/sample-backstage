@@ -1,0 +1,7 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: dummy-services
+spec:
+  targets:
+    - https://github.com/khotibul-hafid/dummy-service/blob/main/catalog-info.yaml

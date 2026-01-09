@@ -10,7 +10,6 @@ metadata:
     - service
     - java
     - quarkus
-
 spec:
   type: openapi
   lifecycle: production
